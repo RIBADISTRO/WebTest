@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg6254"
+   inkscape:version="0.92.4 (0.92.4+201907151756+30a405a)"
+   sodipodi:docname="Organizacio.svg">
+  <defs
+     id="defs6248">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6954">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop6950" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop6952" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6936">
+      <stop
+         style="stop-color:#c8b7b7;stop-opacity:1;"
+         offset="0"
+         id="stop6932" />
+      <stop
+         style="stop-color:#c8b7b7;stop-opacity:0;"
+         offset="1"
+         id="stop6934" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6868">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="0"
+         id="stop6864" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:0;"
+         offset="1"
+         id="stop6866" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6860">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="0"
+         id="stop6856" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:0;"
+         offset="1"
+         id="stop6858" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6829">
+      <stop
+         style="stop-color:#008080;stop-opacity:1;"
+         offset="0"
+         id="stop6825" />
+      <stop
+         style="stop-color:#008080;stop-opacity:0;"
+         offset="1"
+         id="stop6827" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6829"
+       id="linearGradient6831"
+       x1="111.52777"
+       y1="512.24615"
+       x2="104.82408"
+       y2="-1.6983109"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6860"
+       id="linearGradient6862"
+       x1="2.2393641"
+       y1="51.769439"
+       x2="208.18381"
+       y2="51.769439"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6868"
+       id="linearGradient6870"
+       x1="2.2393641"
+       y1="22.223609"
+       x2="208.18381"
+       y2="22.223609"
+       gradientUnits="userSpaceOnUse" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6888"
+       gradientUnits="userSpaceOnUse"
+       x="2.2393641"
+       y="60.455551"
+       gradientTransform="matrix(1.0000848,0,0,0.92484295,-0.00890225,4.5335044)">
+      <meshrow
+         id="meshrow6890">
+        <meshpatch
+           id="meshpatch6892">
+          <stop
+             path="c 45.3241,0  90.6482,0  135.972,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6894" />
+          <stop
+             path="c 0,70.3796  0,140.759  0,211.139"
+             style="stop-color:#cccccc;stop-opacity:1"
+             id="stop6896" />
+          <stop
+             path="c -45.3241,0  -90.6482,0  -135.972,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6898" />
+          <stop
+             path="c 0,-70.3796  0,-140.759  0,-211.139"
+             style="stop-color:#cccccc;stop-opacity:1"
+             id="stop6900" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6936"
+       id="linearGradient6938"
+       x1="313.19073"
+       y1="166.02499"
+       x2="101.9699"
+       y2="154.41388"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000848,0,0,0.92484295,-0.00890225,4.5335044)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6954"
+       id="linearGradient6956"
+       x1="127.43398"
+       y1="328.62897"
+       x2="126.46841"
+       y2="206.40674"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61229019"
+     inkscape:cx="642.41847"
+     inkscape:cy="761.30551"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6251">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Fondo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#linearGradient6831);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="rect6256"
+       width="209.62964"
+       height="296.65894"
+       x="0.30555555"
+       y="0.30555537"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Partes"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#linearGradient6870);fill-opacity:1;stroke:#cccccc;stroke-width:0.2735211"
+       id="rect6834"
+       width="205.94444"
+       height="42.777775"
+       x="2.2393641"
+       y="0.83472204"
+       ry="0" />
+    <rect
+       ry="0"
+       y="45.199997"
+       x="2.2393641"
+       height="13.138885"
+       width="205.94444"
+       id="rect6848"
+       style="fill:url(#linearGradient6862);fill-opacity:1;stroke:#cccccc;stroke-width:0.15158667" />
+    <rect
+       ry="0"
+       y="60.445396"
+       x="2.2306519"
+       height="195.27031"
+       width="135.98376"
+       id="rect6872"
+       style="opacity:0.73000004;fill:url(#meshgradient6888);fill-opacity:1;stroke:#cccccc;stroke-width:0.47486299" />
+    <rect
+       style="fill:url(#linearGradient6938);fill-opacity:1;stroke:#cccccc;stroke-width:0.33292341"
+       id="rect6906"
+       width="66.840393"
+       height="195.27031"
+       x="140.86044"
+       y="60.445396"
+       ry="0" />
+    <rect
+       ry="0"
+       y="258.91113"
+       x="2.2816484"
+       height="36.157875"
+       width="205.03352"
+       id="rect6946"
+       style="fill:url(#linearGradient6956);fill-opacity:1;stroke:#cccccc;stroke-width:0.25091153" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="texto">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="64.223381"
+       y="24.907934"
+       id="text6846"><tspan
+         sodipodi:role="line"
+         id="tspan6844"
+         x="64.223381"
+         y="24.907934"
+         style="stroke-width:0.26458332">Cabecera</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.945599"
+       y="54.569042"
+       id="text6854"><tspan
+         sodipodi:role="line"
+         id="tspan6852"
+         x="59.945599"
+         y="54.569042"
+         style="font-size:7.05555534px;stroke-width:0.26458332">Barra de navegacion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-232.42511"
+       y="70.091209"
+       id="text6904"
+       transform="rotate(-89.381549)"><tspan
+         sodipodi:role="line"
+         id="tspan6902"
+         x="-232.42511"
+         y="70.091209"
+         style="stroke-width:0.26458332">Informacion Principal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="149.16783"
+       y="160.88016"
+       id="text6942"><tspan
+         sodipodi:role="line"
+         id="tspan6940"
+         x="149.16783"
+         y="160.88016"
+         style="stroke-width:0.26458332">Barra </tspan><tspan
+         sodipodi:role="line"
+         x="149.16783"
+         y="178.51904"
+         style="stroke-width:0.26458332"
+         id="tspan6944">Lateral</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.334484"
+       y="281.88019"
+       id="text6962"><tspan
+         sodipodi:role="line"
+         id="tspan6960"
+         x="59.334484"
+         y="281.88019"
+         style="stroke-width:0.26458332">Institucional</tspan></text>
+  </g>
+</svg>

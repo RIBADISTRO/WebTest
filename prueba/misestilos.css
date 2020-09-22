@@ -1,0 +1,79 @@
+/*----------------------------------------------------------------------*/
+/* Referenciado con id*/
+/*#texto1 { font-size: 20px }
+/*----------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------*/
+/* Referencia con el atributo clas*/
+#wrapper {font-size: 60px}
+/*----------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------*/
+/*Referenciando con cualquier atributo*/
+/*
+p[name=”mitexto”] { font-size: 20px }
+p[name^=”mi”] { font-size: 20px }
+p[name$=”mi”] { font-size: 20px }
+p[name*=”mi”] { font-size: 20px }
+
+*/
+/*----------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------*/
+
+/*se le asina un estilo de margen de 0px
+entre lineado para evitar espacion en blanco
+
+Con un selector universal * para asignar el mismo estilo a cada elemento del documento y es util cuando
+necesitamos establece ciertas reglas basicas
+*/
+*{
+	margin: 0px
+}
+/*----------------------------------------------------------------------*/
+
+/*las palabras clave odd y even disponibles para esta
+pseudo clase
+*/
+
+/*----------------------------------------------------------------------*/
+p:nth-child(odd){
+	background: #d6d6d6;
+}
+p:nth-child(even){
+	background: #4fbcbf;
+}
+
+/*p:nth-child(1){
+background: #d6d6d6;
+}
+p:nth-child(2){
+	background: #4fbcbf;
+}
+
+p:nth-child(3){
+	background: #d6d6d6;
+}
+p:nth-child(4){
+	background: #4fbcbf;
+}
+p:nth-child(5){
+	background: #d6d6d6;
+}*/
+/*----------------------------------------------------------------------*/
+
+/*------------------------Nuevos----Selectores----------------------------------*/
+/*
+Estos selectores usan los símbolos > , + y ~
+para especificar la relación entre elementos
+*/
+div > p.mitexto2{
+color: #990000;
+}
+p.mitexto3 + p{
+color: #990000;
+}
+
+p.mitexto4 ~ p{
+color: #990000;
+}

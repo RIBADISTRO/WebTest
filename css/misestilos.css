@@ -1,0 +1,102 @@
+/*-----SELECTOR-UNIVERSAL---------------------------*/
+/*
+margen(margin)--Es en realidad el espacio alrededor del elemento
+padding---------Es el espacio antre el titulo y el borde de la caja virtual fromateada
+				por el elemento <h1> que contiene ese titulo
+*/
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+header,section, footer, aside,nav, article,figure, figcaption,hgroup{
+	display: block;
+}
+
+h1 {
+font: bold 20px verdana, sans-serif;
+}
+h2 {
+font: bold 14px verdana, sans-serif;
+}
+/*--------------CENTRAR TEXTO---------------*/
+body{
+	text-align: center;
+}
+
+/*---------------Creando  la caja  principal-----------------*/
+/*referencia con el atributo id*/
+#agrupar{
+	width: 1100px;
+	margin: 15px auto;
+	text-align: left;
+}
+
+/*---------------------La cabecera----------------------------*/
+
+#cabecera{
+	background: #9AB869;
+	border: 1px solid #27E5B7;
+	padding: 20px;
+	text-align: center;
+}
+
+/*-------------BARRA DE NAVEGACION---------------------------*/
+#menu{
+	background: #27B1E5;
+	padding: 5px 15px;
+}
+
+#menu li {
+	display: inline-block;
+	list-style: none;
+	padding: 5px;
+	font: bold 16px verdana,sans-serif;
+}
+
+/*-------------------Section y aside------------------------*/
+
+#seccion{
+	float: left;
+	width: 820px;
+	margin 50px;
+	background: #74bb2d29;
+}
+#columna{
+	float: right;
+	width: 220px;
+	margin: 20px 0px;
+	padding: 20px;
+	background: #36F3A3;
+}
+
+
+/*------------pie-------------------------------------------*/
+
+#pie{
+	clear: both;
+	text-align: center;
+	padding: 20px;
+	border-top: 2px solid #DAD5DD: 
+}
+
+
+
+/*-------------------Últimos toques--------------------------*/
+article{
+	background: #FFFBCC;
+	border: 1px solid #999999;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+article footer{
+	text-align: right;
+}
+time{
+	color: #999999;
+}
+figcaption{
+	font: intalic 14px verdana,sans-serif;
+}
+/*------------------------------------------------------------*/
