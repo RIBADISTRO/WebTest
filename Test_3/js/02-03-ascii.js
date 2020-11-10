@@ -1,9 +1,6 @@
-// Author: Andrei Gheorghe (http://github.com/idevelop)
-
 var ascii = (function() {
 	function asciiFromCanvas(canvas, options) {
-		// Original code by Jacob Seidelin (http://www.nihilogic.dk/labs/jsascii/)
-		// Heavily modified by Andrei Gheorghe (http://github.com/idevelop)
+		
 
 		var characters = (" .,:;i1tfLCG08@").split("");
 
